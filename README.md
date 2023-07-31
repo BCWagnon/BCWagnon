@@ -1,4 +1,22 @@
-### Hi there 👋
+## Hi, I'm Bridget Wagnon 👋
+
+🚀 MERN Stack Developer | 💡 Front-End Enthusiast | 🔮 Crafting Ideas into Reality 
+
+🌿 Nurturing Growth through the Marriage of Code and Education 🌱
+
+📫 How to reach me: Email- bridget.wagnon4552@gmail.com
+
+## Skills
+
+- 💻 JavaScript 
+- 🌐 HTML | CSS | React.js
+- 🛢️ MongoDB
+- ⚙️ Git 
+
+## Education
+
+- 🎓 Orange Belt in MERN| Coding Dojo | Graduated July 2023
+- 📝 Arizona State University| Field of Study: Education
 
 <!--
 **BCWagnon/BCWagnon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
