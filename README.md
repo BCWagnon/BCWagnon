@@ -1,6 +1,6 @@
 ## Hi, I'm Bridget Wagnon 👋
 
-🚀 MERN Stack Developer | 💡 Front-End Enthusiast | 🔮 Crafting Ideas into Reality 
+🚀 Full Stack JavaScript Developer | 💡 Front-End Enthusiast | 🔮 Crafting Ideas into Reality 
 
 🌿 Nurturing Growth through the Marriage of Code and Education 🌱
 
